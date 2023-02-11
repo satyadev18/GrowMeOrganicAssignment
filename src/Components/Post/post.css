@@ -1,0 +1,13 @@
+.grid{
+    height:500px;
+    width: 90vw;
+    align-items: center;
+    margin-left: 50px;
+
+}
+::-webkit-scrollbar{
+    width: 10px;
+    height: 10px;
+    background-color: aliceblue;
+
+}
